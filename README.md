@@ -1,8 +1,8 @@
-# Reddit Analysis using Pushshift API
+# Reddit NLP (Natural Language Processing) Analysis
 
 ## Background
 
-Reddit is a website that dubs itself itself as the "Front Page of the Internet" and functions as hybrid between a news service and social media. The website is divided into subreddits, miniature communities that cover topics that range from overarching (news, science, music, etc.) to incredibly specific (AskNYC, dogecoin, siberianhusky). In these subreddits, users can make posts and up-vote or down-vote it. With enough popularity, a post can make it to the popular section of reddit where it will be seen by anyone that browses the website. This creates a self-functioning advertisement cycle that allows users to join communities they find interesting. The foundation of each post is the title, body text (contains links and images as well), and comments. In the background, users can also send and receive private messages.
+Reddit is a social media website that functions as a network of individual communities called subreddits. These subreddits cover topics ranging from any topic, and content is submitted through individual posts on the subreddit. The voting system is divided into upvotes and downvotes, each signalling if the community largely finds something agreeable or interesting. With enough interest, the post can be seen through the main website feed, which is sorted by highly popular or upvoted content. The foundation of each post is the title, body text (contains links and images as well), and comment chains, that people submit through online usernames.
 
 In this project, we will be analyzing data from two subreddits:
 
